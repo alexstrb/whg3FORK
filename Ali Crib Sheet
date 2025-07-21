@@ -1,0 +1,5 @@
+Editing text on WHG website
+- Working from fork, find the page you want to edit for example "main", "templates", "main"
+- Edit page by clicking switch to editor 
+- committ change
+- make pull request to send to Stephen
